@@ -1,0 +1,33 @@
+.lead {
+    padding: 0 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 288px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.lead__image-container {
+    position: relative;
+}
+
+@media (max-width: 1024px) {
+    .lead {
+        padding: 0 48px;
+    }
+}
+
+@media (max-width: 768px) {
+    .lead {
+        padding: 0;
+    }
+}
+
+/*@media (max-width: 320px) {*/
+/*    .lead {*/
+/*        max-width: none;*/
+/*    }*/
+/*}*/
+
+

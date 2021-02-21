@@ -1,0 +1,9 @@
+.intro__list_item {
+    text-decoration: none;
+    list-style: none;
+    text-align: left;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+}
