@@ -6,3 +6,8 @@
     text-align: left;
     color: white;
 }
+
+.places__website-link:hover {
+    text-decoration: underline;
+    opacity: 80%;
+}

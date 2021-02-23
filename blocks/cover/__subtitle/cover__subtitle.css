@@ -5,4 +5,16 @@
     line-height: 22px;
     text-align: center;
     align-self: center;
+    margin: 16px 0 0;
+    width: 39%;
+    display: inline-block;
+}
+
+@media (max-width: 767px) {
+    .cover__subtitle {
+        font-size: 14px;
+        line-height: 16px;
+        text-align: center;
+        width: 90%;
+    }
 }
