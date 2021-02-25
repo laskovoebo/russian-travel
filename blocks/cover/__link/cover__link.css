@@ -1,0 +1,6 @@
+.cover__link {
+    display: grid;
+    color: inherit;
+    height: 100%;
+    text-decoration: none;
+}

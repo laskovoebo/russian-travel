@@ -1,5 +1,6 @@
 .header__lang-link {
     text-decoration: none;
+    position: relative;
     list-style: none;
     color: white;
     font-size: 24px;
@@ -15,8 +16,11 @@
 }
 
 .header__lang-link:hover {
-    text-decoration: underline;
     opacity: 80%;
+}
+
+.header__lang-link:visited {
+    text-decoration: underline;
 }
 
 @media (max-width: 767px) {

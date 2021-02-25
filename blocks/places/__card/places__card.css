@@ -25,7 +25,8 @@
 
 @media (max-width: 767px) {
     .places__card {
-        display: flex;
-        flex-direction: column;
+        display: grid;
+        grid-template-columns: auto;
+        grid-gap: 32px;
     }
 }

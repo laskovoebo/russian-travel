@@ -3,3 +3,11 @@
     width: 176px;
     height: 52px;
 }
+
+@media (max-width: 767px) {
+    .header__logo {
+        background-size: 142px 42px;
+        background-repeat: no-repeat;
+
+    }
+}

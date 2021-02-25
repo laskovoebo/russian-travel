@@ -17,10 +17,7 @@
 @media (max-width: 767px) {
     .lead__subtitle {
         font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
         line-height: 20px;
-        text-align: center;
         margin: 0 auto 40px;
     }
 }
