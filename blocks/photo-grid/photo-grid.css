@@ -32,6 +32,7 @@
 
 @media (max-width: 767px) {
     .photo-grid {
+        padding: 64px 16px 0;
         grid-template-rows: repeat(12, auto);
         grid-template-columns: repeat(1, 1fr);
         grid-gap: 12px;
